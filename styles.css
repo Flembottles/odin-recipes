@@ -1,0 +1,12 @@
+* {
+    background-color:blanchedalmond;
+}
+
+h1, div {
+    text-align: center;
+}
+
+img {
+    margin: auto;
+    display: block;
+}
